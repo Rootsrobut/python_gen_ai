@@ -1,0 +1,10 @@
+tokenizer:https://tiktokenizer.vercel.app/
+python -m venv venv
+pip install tiktoken
+pip freeze > requirements.txt
+
+------------------------------------------------------------------------------------
+pip install openai
+pip freeze > requirements.txt
+pip install python-dotenv
+

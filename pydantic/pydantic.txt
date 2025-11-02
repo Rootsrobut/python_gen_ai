@@ -1,0 +1,18 @@
+# Pydantic
+
+# Data validation     
+data parsing and validation
+api development
+config management
+data serilaization/deserilaization
+
+
+# setting management
+
+
+
+import BaseModel
+Type Annotations
+Model init(Always unpack the dict Automatic Validation and conversion )
+
+
